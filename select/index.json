@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "불장난(Playing With Fire)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-27T15:02:45.959391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "불장난 (Playing with Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_불장난_(Playing_with_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "불장난 Playing with Fire (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_불장난_Playing_with_Fire_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "불장난 PLAYING WITH FIRE",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_불장난_PLAYING_WITH_FIRE_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "불장난（PLAYING WITH FIRE）",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_불장난(PLAYING_WITH_FIRE)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "불장난 (PLAYING WITH FIRE)",
+      "artist": "BLACKPINK - ilKPOP.com",
+      "has_synced": true,
+      "path": "select/11_불장난_(PLAYING_WITH_FIRE)_BLACKPINK_-_ilKPOP.com.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "불장난 (Playing With Fire)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/12_불장난_(Playing_With_Fire)_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "불장난 (Playing With Fire)",
+      "artist": "블랙핑크 (BLΛƆKPIИK)",
+      "has_synced": true,
+      "path": "select/13_불장난_(Playing_With_Fire)_블랙핑크_(BLΛƆKPIИK).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "불장난 (Playing with Fire) [Live]",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/14_불장난_(Playing_with_Fire)_[Live]_BLACKPINK.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "불장난(Playing With Fire)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/15_불장난(Playing_With_Fire)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "불장난 (Playing With Fire) (Live)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/16_불장난_(Playing_With_Fire)_(Live)_Blackpink.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "불장난",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_불장난_BLACKPINK.txt"
+    }
+  ]
+}
